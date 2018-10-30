@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C3FFE4A-2696-4271-9DBB-C3C23BEF3F53}"
+	ProjectSection(SolutionItems) = preProject
+		Objetos.html = Objetos.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{D131713A-AFA4-4C1F-8A3F-DD37A8D43CDB}"
+	ProjectSection(SolutionItems) = preProject
+		Script.js = Script.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D131713A-AFA4-4C1F-8A3F-DD37A8D43CDB} = {8C3FFE4A-2696-4271-9DBB-C3C23BEF3F53}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78277220-7748-49F4-B88A-B39D79614108}
+	EndGlobalSection
+EndGlobal
